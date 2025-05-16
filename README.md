@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img align="center" src="https://pbs.twimg.com/media/GpzYqbIaYAcS1LZ?format=jpg&name=4096x4096" />
   </a>
 </p>
